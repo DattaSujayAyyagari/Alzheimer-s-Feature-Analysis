@@ -1,6 +1,5 @@
 # Alzheimer's Disease Classification with XGBoost
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-brightgreen)](https://www.python.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-1.5.0-orange)](https://xgboost.readthedocs.io/en/stable/)
 
