@@ -68,11 +68,3 @@ Several visualizations are used to illustrate model performance:
 ## Contributing
 
 Contributions to this project are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-You can continue to adjust the README to better fit the context and specifics of your project as needed.
